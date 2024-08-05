@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Flaticon";
-  src: url("../images/icon.jpg") format("jpg");
+  src: url("images/icon.jpg") format("jpg");
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("../images/icon.jpg") format("jpg");
+    src: url("images/icon.jpg") format("jpg");
   }
 }
 
